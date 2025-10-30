@@ -50,8 +50,10 @@ map.html
 <font color="blue"><b>Sivahariharan J (25018631)</b></font> </h3>
 
 <center>
+<img width="1907" height="1007" alt="2" src="https://github.com/user-attachments/assets/fe1c9374-2405-478e-a76f-6151a72f2b16" />
 
-<img src="2.png" usemap="#MyCity" height="610" width="1450"> 
+
+
 <map name="MyCity">
 
 <area shape="rect" coords="700,250,850,400" href="home.html" title="My Home Town">
